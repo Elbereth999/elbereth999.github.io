@@ -1,0 +1,4 @@
+# Dipole field equations
+
+
+

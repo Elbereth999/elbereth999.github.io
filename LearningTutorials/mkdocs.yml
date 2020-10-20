@@ -1,0 +1,17 @@
+site_name: Learning Tutorials
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+
+nav:
+- Home: 'index.md'
+- Observational Astronomy: 
+   - Julian Dates: 'ObservationalAstro/JD.md'
+   - Is it observable: 'ObservationalAstro/Observable.md'
+- MagneticFields:
+   - Dipolar fields: 'MagneticFields/Dipole.md'
+   - Field extrapolation: 'MagneticFields/FieldExtrapolation.md'
